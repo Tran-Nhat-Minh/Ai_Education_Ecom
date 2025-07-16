@@ -744,6 +744,7 @@ body {
   align-items: center;
   padding-top: 24px;
   border-top: 1px solid #e2e8f0;
+  gap: 10px;
 }
 
 .price-section {
